@@ -1,11 +1,2 @@
-const app= new Vue({
-  el: '#app',
-  data:{
-   
-      product: 'Cars',
-      describtion: ' The most popular cars'
-      
-      
-    
-  }
-})
+let colorTag=document.querySelector('.first');
+colorTag.style.color='red'
