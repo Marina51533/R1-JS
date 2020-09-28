@@ -7,3 +7,4 @@ function changeText(){
   changedTag.innerHTML='You should buy it!' ;
 }
 
+document.body.insertAdjacentHTML ("beforebegin",'<div class="newEl"></div>')

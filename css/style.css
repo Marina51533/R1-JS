@@ -16,3 +16,8 @@
   height: 250px;
   width: 300px;
 }
+.newEl{
+  height: 4px;
+  width: 100%;
+  background-color: cyan;
+}
